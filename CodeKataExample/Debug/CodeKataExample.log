@@ -1,7 +1,0 @@
-﻿  CodeKataExample.cpp
-  Drivers.cpp
-  OpenFile.cpp
-  Trips.cpp
-  Generating Code...
-C:\Users\Randwulf\source\repos\CodeKataExample\OpenFile.cpp(63): warning C4715: 'CodeKataExample::OpenFile::readFile': not all control paths return a value
-  CodeKataExample.vcxproj -> C:\Users\Randwulf\source\repos\CodeKataExample\Debug\CodeKataExample.exe
